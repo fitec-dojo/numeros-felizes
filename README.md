@@ -24,7 +24,7 @@ Participantes
 ---------
 [@rafaelune](http://github.com/rafaelune)
 @helder
-@zuca
+[@rzucareli](http://github.com/rzucareli)
 @cristiano
 @luan
 @carlos
